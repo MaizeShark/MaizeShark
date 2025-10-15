@@ -58,6 +58,13 @@ With a soft spot for clean design (yes, even in the terminal) and elegant code, 
 
 ![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=cplusplus%2CC%2B%2B%2C94e2d5%3Barduino%2CArduino%2C89b4fa%3Besphome%2CESPHome%2Ca6e3a1%3Bmqtt%2CMQTT%2Cf38ba8%3B&line2=kicad%2CKiCad%2Ccba6f7%3Bbambulab%2C3D+Printing%2C42ac3e%3Bkde%2CKDE+Plasma%2C74c7ec%3Blinux%2CLinux%2Cf9e2af%3B)
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaizeShark/MaizeShark/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaizeShark/MaizeShark/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MaizeShark/MaizeShark/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
 
 > _"My code isn't buggy, it just has unexpected purr-sonality."_ 😼
