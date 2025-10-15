@@ -35,11 +35,11 @@ With a soft spot for clean design (yes, even in the terminal) and elegant code, 
 ### 🚀 What I'm up to
 
 - 🔭 **Currently working on:**  
-  - A smartwatch project powered by an **ESP32-S3**, custom PCB, and a 1.5" round IPS display (466×466px)  
+  - Planing a Volvo V60 2015 Tech Upgrade
   - A heavily modified RC car based on a **Raspberry Pi Zero 2 W** with a custom PCB  
   - A fully 3D-printed DIY drone project
 
-- 🌱 **Currently learning:** Advanced PCB design, QSPI display drivers, and efficient IoT integrations
+- 🌱 **Currently learning:** Advanced PCB design and efficient IoT integrations
 
 - 💬 **Ask me about:** ESP32, Raspberry Pi, custom PCBs, 3D printing, reverse engineering, and hardware/software integration
 
@@ -52,7 +52,8 @@ With a soft spot for clean design (yes, even in the terminal) and elegant code, 
 ### 🛠 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ThinkPad_T480-i5--8350U_·_24GB_RAM_·_Debian_12-cba6f7?style=for-the-badge&logo=thinkpad&logoColor=white&labelColor=1e1e2e" alt="My Workstation"/>
+  <img src="https://img.shields.io/badge/ThinkPad_T480-i5--8350U_·_24GB_RAM_·_Debian_13-cba6f7?style=for-the-badge&logo=thinkpad&logoColor=white&labelColor=1e1e2e" alt="My Laptop"/>
+  <img src="https://img.shields.io/badge/MAXIMUS_VIII_RANGER-i7--6700K_%C2%B7_RTX_4060_%C2%B7_16GB_RAM_%C2%B7_KDE_Neon-cba6f7?style=for-the-badge&logo=asus&logoColor=white&labelColor=1e1e2e" alt="My Dekstop"/>
 </p>
 
 ![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=cplusplus%2CC%2B%2B%2C94e2d5%3Barduino%2CArduino%2C89b4fa%3Besphome%2CESPHome%2Ca6e3a1%3Bmqtt%2CMQTT%2Cf38ba8%3B&line2=kicad%2CKiCad%2Ccba6f7%3Bbambulab%2C3D+Printing%2C42ac3e%3Bkde%2CKDE+Plasma%2C74c7ec%3Blinux%2CLinux%2Cf9e2af%3B)
