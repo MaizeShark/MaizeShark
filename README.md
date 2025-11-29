@@ -8,14 +8,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api?username=MaizeShark&show_icons=true&theme=catppuccin_mocha&rank_icon=github" 
+      src="https://github-readme-stats-nine-sooty-74.vercel.app/api?username=MaizeShark&show_icons=true&theme=catppuccin_mocha&rank_icon=github" 
       alt="MaizeShark's GitHub Stats" 
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaizeShark&layout=compact&langs_count=8&theme=catppuccin_mocha" 
+      src="https://github-readme-stats-nine-sooty-74.vercel.app/api/top-langs/?username=MaizeShark&layout=compact&langs_count=8&theme=catppuccin_mocha" 
       alt="MaizeShark's Top Languages"
     />
   </a>
