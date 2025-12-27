@@ -59,20 +59,9 @@ With a soft spot for clean design (yes, even in the terminal) and elegant code, 
 ![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=cplusplus%2CC%2B%2B%2C94e2d5%3Barduino%2CArduino%2C89b4fa%3Besphome%2CESPHome%2Ca6e3a1%3Bmqtt%2CMQTT%2Cf38ba8%3B&line2=kicad%2CKiCad%2Ccba6f7%3Bbambulab%2C3D+Printing%2C42ac3e%3Bkde%2CKDE+Plasma%2C74c7ec%3Blinux%2CLinux%2Cf9e2af%3B)
 
 
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
+<!-- README-STATS:START -->
 
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_CONTRIBUTIONS:readme-info-->
-<!--END_CONTRIBUTIONS:readme-info-->
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+<!-- README-STATS:END -->
 
 
 <picture>
