@@ -13,6 +13,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: mahyarmirrashed/action-github-readme-stats@main
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TIMEZONE: "Europe/Berlin"
           FEATURES: "DAY_STATS,WEEK_STATS"
