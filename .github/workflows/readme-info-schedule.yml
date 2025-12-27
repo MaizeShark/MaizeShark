@@ -9,6 +9,8 @@ jobs:
   update-readme:
     name: GitHub README Generator
     runs-on: ubuntu-latest
+    permissions:
+      contents: write 
     steps:
       - uses: actions/checkout@v2
       - uses: mahyarmirrashed/action-github-readme-stats@main
