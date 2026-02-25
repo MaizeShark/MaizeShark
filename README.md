@@ -3,7 +3,7 @@
   
   # Hi there, I'm MaizeShark! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-  ### 15 y/o Student • Linux Enthusiast • Tinkerer 🇩🇪
+  ### 16 y/o Student • Linux Enthusiast • Tinkerer 🇩🇪
 
   <a href="https://github.com/MaizeShark">
     <img src="https://img.shields.io/github/followers/MaizeShark?style=social&label=Follow&labelColor=1e1e2e&color=cba6f7" alt="GitHub followers"/>
@@ -27,11 +27,10 @@
 Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring **Linux, Open Source, Reverse Engineering, 3D printing**, and **PCB design**.
 
 - 🔭 **Working on:** 
-  - Volvo V60 (2015) Tech Upgrade
-  - Custom PCB High-speed RC Car (powered by **RPi Zero 2 W**)
+  - Volvo V60 (2015) Tech Upgrade (NightRide)
+  - DIY Smart Air Meter
   - Fully 3D-printed DIY drone
 - 🌱 **Learning:** Advanced PCB design (KiCad) & Efficient IoT integration
-- 💬 **Ask me about:** ESP32, Raspberry Pi, Hardware Hacking, & 3D Printing
 - 📫 **Contact:** [niclaseisenhut@gmail.com](mailto:niclaseisenhut@gmail.com) or [Discord](https://discordapp.com/users/986632382876622858)
 
 ---
