@@ -31,7 +31,7 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
   - DIY Smart Air Meter
   - Fully 3D-printed DIY drone
 - 🌱 **Learning:** Advanced PCB design (KiCad) & Efficient IoT integration
-- 📫 **Contact:** [niclaseisenhut@gmail.com](mailto:niclaseisenhut@gmail.com) or [Discord](https://discordapp.com/users/986632382876622858)
+- 📫 **Contact:** [niclaseisenhut@gmail.com](mailto:niclaseisenhut@gmail.com) or Discord (``niclas_op``)
 
 ---
 
