@@ -1,7 +1,7 @@
 <!-- Header & Title -->
 <div align="center">
   
-  # Hi there, I'm MaizeShark! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGloeDA0NjV4cW9qdWpzZTVhdDYzcXp1NTBvYm40OHM3dTI5N3IxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pr1dbVONbGeVvSiECh/giphy.gif" width="50px">
+  # Hi there, I'm MaizeShark! <img src="https://media.giphy.com/media/pr1dbVONbGeVvSiECh/giphy.gif" width="50px">
 
   ### 16 y/o Student • Linux Enthusiast • Tinkerer 🇩🇪
 
