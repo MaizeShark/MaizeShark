@@ -1,12 +1,15 @@
 <!-- Header & Title -->
 <div align="center">
   
-  # Hi there, I'm MaizeShark! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  # Hi there, I'm MaizeShark! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGloeDA0NjV4cW9qdWpzZTVhdDYzcXp1NTBvYm40OHM3dTI5N3IxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pr1dbVONbGeVvSiECh/giphy.gif" width="50px">
 
   ### 16 y/o Student • Linux Enthusiast • Tinkerer 🇩🇪
 
   <a href="https://github.com/MaizeShark">
     <img src="https://img.shields.io/github/followers/MaizeShark?style=social&label=Follow&labelColor=1e1e2e&color=cba6f7" alt="GitHub followers"/>
+  </a>
+  <a href="https://maizeshark.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-maizeshark.github.io-94e2d5?style=flat&labelColor=1e1e2e&logo=github" />
   </a>
   <br><br>
 
@@ -27,8 +30,8 @@
 Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring **Linux, Open Source, Reverse Engineering, 3D printing**, and **PCB design**.
 
 - 🔭 **Working on:** 
-  - Volvo V60 (2015) Tech Upgrade (NightRide)
-  - DIY Smart Air Meter
+  - Volvo V60 I Tech Upgrade (NightRide)
+  - DIY Robot Vaccum
   - Fully 3D-printed DIY drone
 - 🌱 **Learning:** Advanced PCB design (KiCad) & Efficient IoT integration
 - 📫 **Contact:** [niclaseisenhut@gmail.com](mailto:niclaseisenhut@gmail.com) or Discord (``niclas_op``)
