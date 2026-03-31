@@ -65,22 +65,22 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 ```
 🕰️ I get my jam on during the night!
 
-🌞 Morning  	5      commits	█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░	1.67%
-🌆 Daytime  	75     commits	████████████████░░░░░░░░░░░░░░	25.00%
-🌃 Evening  	85     commits	██████████████████░░░░░░░░░░░░	28.33%
-🌙 Night    	135    commits	██████████████████████████████	45.00%
+🌞 Morning  	5      commits	█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░	1.66%
+🌆 Daytime  	75     commits	████████████████░░░░░░░░░░░░░░	24.92%
+🌃 Evening  	85     commits	██████████████████░░░░░░░░░░░░	28.24%
+🌙 Night    	136    commits	██████████████████████████████	45.18%
 ```
 
 ```
 📅 I'm most productive on Thursdays!
 
-Monday      	36     commits	█████████████████░░░░░░░░░░░░░	12.00%
-Tuesday     	24     commits	███████████░░░░░░░░░░░░░░░░░░░	8.00%
-Wednesday   	36     commits	█████████████████░░░░░░░░░░░░░	12.00%
-Thursday    	62     commits	██████████████████████████████	20.67%
-Friday      	36     commits	█████████████████░░░░░░░░░░░░░	12.00%
-Saturday    	49     commits	███████████████████████░░░░░░░	16.33%
-Sunday      	57     commits	███████████████████████████░░░	19.00%
+Monday      	36     commits	█████████████████░░░░░░░░░░░░░	11.96%
+Tuesday     	25     commits	████████████░░░░░░░░░░░░░░░░░░	8.31%
+Wednesday   	36     commits	█████████████████░░░░░░░░░░░░░	11.96%
+Thursday    	62     commits	██████████████████████████████	20.60%
+Friday      	36     commits	█████████████████░░░░░░░░░░░░░	11.96%
+Saturday    	49     commits	███████████████████████░░░░░░░	16.28%
+Sunday      	57     commits	███████████████████████████░░░	18.94%
 ```
 
 <!-- README-STATS:END -->
