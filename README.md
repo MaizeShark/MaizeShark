@@ -61,6 +61,59 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 <br>
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.89%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 542.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 117 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 44 Public Repositories 
+ > 
+> 🔑 26 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+🌆 Daytime                179 commits         ██████████░░░░░░░░░░░░░░░   40.13 % 
+🌃 Evening                210 commits         ████████████░░░░░░░░░░░░░   47.09 % 
+🌙 Night                  40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Tuesday                  39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Wednesday                108 commits         ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+Thursday                 34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Friday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Saturday                 95 commits          █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Sunday                   78 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/MaizeShark/MaizeShark/main/assets/bar_graph.png)
+
+
+ Last Updated on 03/07/2026 16:33:15 UTC
 <!--END_SECTION:waka-->
 </details>
 
