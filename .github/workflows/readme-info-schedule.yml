@@ -9,19 +9,15 @@ jobs:
   update-readme:
     name: GitHub README Generator
     runs-on: ubuntu-latest
-    permissions:
-      contents: write 
     steps:
       - uses: actions/checkout@v2
-      - uses: mahyarmirrashed/action-github-readme-stats@main
+      - uses: anmol098/waka-readme-stats@master
         with:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
-          TIMEZONE: "Europe/Berlin"
-          FEATURES: "DAY_STATS,WEEK_STATS"
-      - name: "Commit changes"
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "chore: update readme via actions"
-          git push
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_LANGUAGE: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
