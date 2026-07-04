@@ -22,4 +22,4 @@ jobs:
           SHOW_LANGUAGE: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
-          IGNORED_REPOS: "piper1-gpl, onnxruntime, pure-maps, librepods"
+          IGNORED_REPOS: "onnxruntime" # took like one hour

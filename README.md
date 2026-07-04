@@ -14,12 +14,8 @@
   <br><br>
 
   <!-- GitHub Stats (Centered & Borderless for clean look) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats-nine-sooty-74.vercel.app/api?username=MaizeShark&show_icons=true&theme=catppuccin_mocha&rank_icon=github&hide_border=true&bg_color=1e1e2e" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats-nine-sooty-74.vercel.app/api/top-langs/?username=MaizeShark&layout=compact&langs_count=8&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e" />
-  </a>
+  <img height="180" src="./assets/stats.svg" />
+  <img height="180" src="./assets/top-langs.svg" />
 
 </div>
 
@@ -29,11 +25,7 @@
 
 Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring **Linux, Open Source, Reverse Engineering, 3D printing**, and **PCB design**.
 
-- 🔭 **Working on:** 
-  - Volvo V60 I Tech Upgrade (NightRide)
-  - DIY Robot Vaccum
-  - Fully 3D-printed DIY drone
-- 🌱 **Learning:** Advanced PCB design (KiCad) & Efficient IoT integration
+- 🌱 **Learning:** Advanced PCB design (KiCad) & Rust
 - 📫 **Contact:** [niclaseisenhut@gmail.com](mailto:niclaseisenhut@gmail.com) or Discord (``niclas_op``)
 
 ---
