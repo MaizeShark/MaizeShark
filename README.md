@@ -59,11 +59,11 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 
 > 📦 542.3 kB Used in GitHub's Storage 
  > 
-> 🏆 132 Contributions in the Year 2026
+> 🏆 133 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 44 Public Repositories 
+> 📜 45 Public Repositories 
  > 
 > 🔑 26 Private Repositories 
  > 
@@ -94,17 +94,15 @@ Sunday                   78 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-Claude Code              1 hr 16 mins        ████████████████████████░   97.77 % 
-VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Claude Code              1 hr 16 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-linux                    50 mins             ████████████████░░░░░░░░░   64.44 % 
-JLCONE                   26 mins             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-DLL                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+linux                    50 mins             ████████████████░░░░░░░░░   65.91 % 
+JLCONE                   26 mins             █████████░░░░░░░░░░░░░░░░   34.09 % 
 ```
 
 
- Last Updated on 12/07/2026 02:31:28 UTC
+ Last Updated on 14/07/2026 01:15:01 UTC
 <!--END_SECTION:waka-->
 </details>
 
