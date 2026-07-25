@@ -59,51 +59,16 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 
 > 📦 542.9 kB Used in GitHub's Storage 
  > 
-> 🏆 137 Contributions in the Year 2026
+> 🏆 139 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 44 Public Repositories 
  > 
-> 🔑 27 Private Repositories 
+> 🔑 28 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-🌆 Daytime                200 commits         ██████████░░░░░░░░░░░░░░░   41.93 % 
-🌃 Evening                218 commits         ███████████░░░░░░░░░░░░░░   45.70 % 
-🌙 Night                  42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Tuesday                  39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Wednesday                108 commits         ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-Thursday                 34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Friday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Saturday                 118 commits         ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-Sunday                   78 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-🔥 Editors: 
-CLion                    1 hr 58 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-MarkdownView             1 hr 55 mins        ████████████████████████░   97.70 % 
-hello_cargo              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-```
-
-
- Last Updated on 24/07/2026 02:28:04 UTC
+ Last Updated on 25/07/2026 02:26:29 UTC
 <!--END_SECTION:waka-->
 </details>
 
