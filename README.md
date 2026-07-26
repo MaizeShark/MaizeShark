@@ -59,16 +59,54 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 
 > 📦 542.9 kB Used in GitHub's Storage 
  > 
-> 🏆 139 Contributions in the Year 2026
+> 🏆 142 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 44 Public Repositories 
  > 
-> 🔑 28 Private Repositories 
+> 🔑 29 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 25/07/2026 02:26:29 UTC
+```text
+🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+🌆 Daytime                200 commits         ██████████░░░░░░░░░░░░░░░   41.58 % 
+🌃 Evening                222 commits         ████████████░░░░░░░░░░░░░   46.15 % 
+🌙 Night                  42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Tuesday                  39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Wednesday                108 commits         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Thursday                 34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Friday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Saturday                 120 commits         ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+Sunday                   78 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+🔥 Editors: 
+VS Code                  4 hrs 48 mins       ██████████████████░░░░░░░   70.96 % 
+CLion                    1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+
+🐱‍💻 Projects: 
+AliFetch                 4 hrs 32 mins       █████████████████░░░░░░░░   67.01 % 
+MarkdownView             1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+maizeshark.github.io     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+hello_cargo              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+```
+
+
+ Last Updated on 26/07/2026 02:33:01 UTC
 <!--END_SECTION:waka-->
 </details>
 
