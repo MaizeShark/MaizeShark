@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Niclas Eisenhut's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 236, Total PRs: 12, Total Issues: 8, Contributed to (last year): 22</desc>
+        <title id="titleId">Niclas Eisenhut&#39;s GitHub Stats, Rank: C+</title>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 237, Total PRs: 12, Total Issues: 8, Contributed to (last year): 22</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 200.243576442634;
+        stroke-dashoffset: 200.1832927530495;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Niclas Eisenhut's GitHub Stats</text>
+      >Niclas Eisenhut&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >236</text>
+      >237</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
