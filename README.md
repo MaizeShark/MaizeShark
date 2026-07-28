@@ -53,13 +53,15 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 <br>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2047%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.89%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 542.9 kB Used in GitHub's Storage 
  > 
-> 🏆 142 Contributions in the Year 2026
+> 🏆 143 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -71,20 +73,20 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 
 ```text
 🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-🌆 Daytime                200 commits         ██████████░░░░░░░░░░░░░░░   41.58 % 
-🌃 Evening                222 commits         ████████████░░░░░░░░░░░░░   46.15 % 
-🌙 Night                  42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+🌆 Daytime                200 commits         ██████████░░░░░░░░░░░░░░░   41.49 % 
+🌃 Evening                223 commits         ████████████░░░░░░░░░░░░░   46.27 % 
+🌙 Night                  42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Tuesday                  39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Wednesday                108 commits         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-Thursday                 34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Friday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Saturday                 120 commits         ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-Sunday                   78 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Monday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Tuesday                  39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Wednesday                108 commits         ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+Thursday                 34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Friday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Saturday                 120 commits         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+Sunday                   78 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
 ```
 
 
@@ -106,8 +108,30 @@ hello_cargo              1 min               ░░░░░░░░░░░�
 Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 02:41:02 UTC
+```text
+⏱ AI Coding Time: 2 mins (0.36%)
+
+✍️ 44 lines written by AI, 993 lines written by hand (4.24% AI-written)
+
+🔤 64,053 Input Tokens, 646 Output Tokens
+
+💵 $0.20 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Sonnet                   44 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 4.24% of written lines came from AI
+📄 Detailed Prompter — average 883 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 97.01% of changed lines were hand-edited
+```
+
+
+ Last Updated on 28/07/2026 02:14:55 UTC
 <!--END_SECTION:waka-->
 </details>
 
