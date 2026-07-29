@@ -53,8 +53,6 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2047%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.89%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -96,24 +94,21 @@ Sunday                   78 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-VS Code                  7 hrs 30 mins       ████████████████████░░░░░   79.11 % 
-CLion                    1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+VS Code                  8 hrs 10 mins       █████████████████████████   99.80 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-AliFetch                 7 hrs 15 mins       ███████████████████░░░░░░   76.47 % 
-MarkdownView             1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-maizeshark.github.io     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-hello_cargo              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+AliFetch                 7 hrs 16 mins       ██████████████████████░░░   88.86 % 
+Unknown Project          38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+maizeshark.github.io     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (0.36%)
+⏱ AI Coding Time: 2 mins (0.42%)
 
-✍️ 44 lines written by AI, 993 lines written by hand (4.24% AI-written)
+✍️ 44 lines written by AI, 998 lines written by hand (4.22% AI-written)
 
 🔤 64,053 Input Tokens, 646 Output Tokens
 
@@ -124,14 +119,14 @@ Unknown Project          1 min               ░░░░░░░░░░░�
 Sonnet                   44 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.24% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 4.22% of written lines came from AI
 📄 Detailed Prompter — average 883 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 97.01% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.93% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 02:14:55 UTC
+ Last Updated on 29/07/2026 02:25:15 UTC
 <!--END_SECTION:waka-->
 </details>
 
