@@ -96,22 +96,22 @@ Sunday                   79 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-Claude Code              1 hr 19 mins        ██████████████░░░░░░░░░░░   57.30 % 
-VS Code                  59 mins             ███████████░░░░░░░░░░░░░░   42.70 % 
+Claude Code              1 hr 19 mins        ████████████████████░░░░░   79.48 % 
+VS Code                  20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
 
 🐱‍💻 Projects: 
-its_g5_viewer            1 hr 19 mins        ██████████████░░░░░░░░░░░   57.22 % 
-Unknown Project          40 mins             ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-Amazon-Echo-RE.wiki      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-mitmrouter               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+its_g5_viewer            1 hr 19 mins        ████████████████████░░░░░   79.37 % 
+Amazon-Echo-RE.wiki      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+mitmrouter               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 19 mins (57.22%)
+⏱ AI Coding Time: 1 hr 19 mins (79.37%)
 
-✍️ 311 lines written by AI, 251 lines written by hand (55.34% AI-written)
+✍️ 311 lines written by AI, 142 lines written by hand (68.65% AI-written)
 
 🔤 8,674,924 Input Tokens, 54,788 Output Tokens
 
@@ -122,14 +122,14 @@ mitmrouter               8 mins              ██░░░░░░░░░�
 Sonnet                   352 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 55.34% of written lines came from AI
+🤖 AI-Driven — 68.65% of written lines came from AI
 📝 Concise Prompter — average 96 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 49.71% of changed lines were hand-edited
+🚀 High AI Trust — 35.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/08/2026 02:12:51 UTC
+ Last Updated on 06/08/2026 02:22:06 UTC
 <!--END_SECTION:waka-->
 </details>
 
