@@ -53,8 +53,6 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%206%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.89%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -69,67 +67,8 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
  > 
 > 🔑 29 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-🌆 Daytime                200 commits         ██████████░░░░░░░░░░░░░░░   41.41 % 
-🌃 Evening                224 commits         ████████████░░░░░░░░░░░░░   46.38 % 
-🌙 Night                  42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Tuesday                  39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Wednesday                108 commits         ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-Thursday                 34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Friday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Saturday                 120 commits         ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-Sunday                   79 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-🔥 Editors: 
-Claude Code              1 hr 19 mins        ████████████████████░░░░░   79.48 % 
-VS Code                  20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-
-🐱‍💻 Projects: 
-its_g5_viewer            1 hr 19 mins        ████████████████████░░░░░   79.37 % 
-Amazon-Echo-RE.wiki      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-mitmrouter               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 19 mins (79.37%)
-
-✍️ 311 lines written by AI, 142 lines written by hand (68.65% AI-written)
-
-🔤 8,674,924 Input Tokens, 54,788 Output Tokens
-
-💵 $26.94 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 10 AI Prompts
-
-Sonnet                   352 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 68.65% of written lines came from AI
-📝 Concise Prompter — average 96 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 35.06% of changed lines were hand-edited
-```
-
-
- Last Updated on 06/08/2026 02:22:06 UTC
+ Last Updated on 07/08/2026 02:32:23 UTC
 <!--END_SECTION:waka-->
 </details>
 
