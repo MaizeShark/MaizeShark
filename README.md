@@ -96,22 +96,23 @@ Sunday                   79 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-Claude Code              1 hr 19 mins        ████████████████████░░░░░   79.48 % 
-VS Code                  20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+VS Code                  1 hr 36 mins        ██████████████░░░░░░░░░░░   54.86 % 
+Claude Code              1 hr 19 mins        ███████████░░░░░░░░░░░░░░   45.14 % 
 
 🐱‍💻 Projects: 
-its_g5_viewer            1 hr 19 mins        ████████████████████░░░░░   79.37 % 
-Amazon-Echo-RE.wiki      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-mitmrouter               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+its_g5_viewer            1 hr 19 mins        ███████████░░░░░░░░░░░░░░   45.08 % 
+Amazon-Echo-RE.wiki      52 mins             ████████░░░░░░░░░░░░░░░░░   30.02 % 
+Unknown Project          30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+mitmrouter               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+tt-video                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 19 mins (79.37%)
+⏱ AI Coding Time: 1 hr 19 mins (45.08%)
 
-✍️ 311 lines written by AI, 142 lines written by hand (68.65% AI-written)
+✍️ 311 lines written by AI, 194 lines written by hand (61.58% AI-written)
 
 🔤 8,674,924 Input Tokens, 54,788 Output Tokens
 
@@ -122,14 +123,14 @@ Unknown Project          1 min               ░░░░░░░░░░░�
 Sonnet                   352 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 68.65% of written lines came from AI
+⚖️ Balanced with AI — 61.58% of written lines came from AI
 📝 Concise Prompter — average 96 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 35.06% of changed lines were hand-edited
+🚀 High AI Trust — 40.94% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/08/2026 01:20:57 UTC
+ Last Updated on 09/08/2026 01:26:37 UTC
 <!--END_SECTION:waka-->
 </details>
 
