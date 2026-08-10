@@ -59,7 +59,7 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 
 **🐱 My GitHub Data** 
 
-> 📦 543.0 kB Used in GitHub's Storage 
+> 📦 542.9 kB Used in GitHub's Storage 
  > 
 > 🏆 144 Contributions in the Year 2026
  > 
@@ -96,21 +96,20 @@ Sunday                   79 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-VS Code                  1 hr 36 mins        ██████████████░░░░░░░░░░░   54.86 % 
-Claude Code              1 hr 19 mins        ███████████░░░░░░░░░░░░░░   45.14 % 
+VS Code                  1 hr 26 mins        █████████████░░░░░░░░░░░░   52.07 % 
+Claude Code              1 hr 19 mins        ████████████░░░░░░░░░░░░░   47.93 % 
 
 🐱‍💻 Projects: 
-its_g5_viewer            1 hr 19 mins        ███████████░░░░░░░░░░░░░░   45.08 % 
-Amazon-Echo-RE.wiki      52 mins             ████████░░░░░░░░░░░░░░░░░   30.02 % 
-Unknown Project          30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-mitmrouter               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-tt-video                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+its_g5_viewer            1 hr 19 mins        ████████████░░░░░░░░░░░░░   47.86 % 
+Amazon-Echo-RE.wiki      52 mins             ████████░░░░░░░░░░░░░░░░░   31.87 % 
+Unknown Project          29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+tt-video                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 19 mins (45.08%)
+⏱ AI Coding Time: 1 hr 19 mins (47.86%)
 
 ✍️ 311 lines written by AI, 194 lines written by hand (61.58% AI-written)
 
@@ -130,7 +129,7 @@ Sonnet                   352 lines           ███████████�
 ```
 
 
- Last Updated on 09/08/2026 01:26:37 UTC
+ Last Updated on 10/08/2026 01:28:10 UTC
 <!--END_SECTION:waka-->
 </details>
 
