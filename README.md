@@ -96,24 +96,41 @@ Sunday                   79 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-VS Code                  1 hr 32 mins        █████████████████████████   99.88 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+VS Code                  1 hr 40 mins        █████████████████████████   99.80 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-Amazon-Echo-RE.wiki      52 mins             ██████████████░░░░░░░░░░░   57.12 % 
-Unknown Project          29 mins             ████████░░░░░░░░░░░░░░░░░   31.46 % 
-TechniSat-S1-RE          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-tt-video                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Amazon-Echo-RE.wiki      43 mins             ███████████░░░░░░░░░░░░░░   42.86 % 
+Unknown Project          31 mins             ████████░░░░░░░░░░░░░░░░░   31.54 % 
+TechniSat-S1-RE          20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+tt-video                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+linux-go2001             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 0 secs (0.2%)
+
+✍️ 0 lines written by AI, 82 lines written by hand (0.0% AI-written)
+
+🔤 10,711 Input Tokens, 364 Output Tokens
+
+💵 $0.04 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 34 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/08/2026 01:26:05 UTC
+ Last Updated on 12/08/2026 01:43:09 UTC
 <!--END_SECTION:waka-->
 </details>
 
