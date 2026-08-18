@@ -96,20 +96,21 @@ Sunday                   79 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   99.52 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+VS Code                  49 mins             █████████████████████████   99.59 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🐱‍💻 Projects: 
-TechniSat-S1-RE          41 mins             ████████████████████████░   97.06 % 
-linux-go2001             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TechniSat-S1-RE          35 mins             ██████████████████░░░░░░░   70.61 % 
+tt-video                 13 mins             ███████░░░░░░░░░░░░░░░░░░   26.88 % 
+linux-go2001             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.48%)
+⏱ AI Coding Time: 0 secs (0.41%)
 
-✍️ 0 lines written by AI, 25 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 12 lines written by hand (0.0% AI-written)
 
 🔤 10,711 Input Tokens, 364 Output Tokens
 
@@ -127,7 +128,7 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/08/2026 01:05:57 UTC
+ Last Updated on 18/08/2026 01:04:11 UTC
 <!--END_SECTION:waka-->
 </details>
 
