@@ -96,12 +96,14 @@ Sunday                   79 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+VS Code                  23 mins             ██████████████████░░░░░░░   73.35 % 
+CLion                    8 mins              ███████░░░░░░░░░░░░░░░░░░   26.65 % 
 
 🐱‍💻 Projects: 
-tt-video                 13 mins             ██████████████░░░░░░░░░░░   57.60 % 
-TechniSat-S1-RE          9 mins              ██████████░░░░░░░░░░░░░░░   41.91 % 
-S29GLxxxN                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+tt-video                 13 mins             ███████████░░░░░░░░░░░░░░   42.25 % 
+TechniSat-S1-RE          9 mins              ████████░░░░░░░░░░░░░░░░░   30.74 % 
+MarkdownView             8 mins              ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+S29GLxxxN                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -111,7 +113,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 22/08/2026 01:04:36 UTC
+ Last Updated on 23/08/2026 01:09:12 UTC
 <!--END_SECTION:waka-->
 </details>
 
