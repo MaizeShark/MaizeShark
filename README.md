@@ -53,7 +53,7 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.89%20million%20lines%20of%20code-blue?style=flat)
 
@@ -96,23 +96,41 @@ Sunday                   79 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████░░░░░░░░░░░░   53.86 % 
-CLion                    8 mins              ████████████░░░░░░░░░░░░░   46.14 % 
+Claude Code              33 mins             █████████████░░░░░░░░░░░░   53.86 % 
+VS Code                  19 mins             ████████░░░░░░░░░░░░░░░░░   32.41 % 
+CLion                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 
 🐱‍💻 Projects: 
-TechniSat-S1-RE          9 mins              █████████████░░░░░░░░░░░░   53.23 % 
-MarkdownView             8 mins              ████████████░░░░░░░░░░░░░   46.14 % 
-S29GLxxxN                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+NowPlaying               43 mins             ██████████████████░░░░░░░   70.25 % 
+TechniSat-S1-RE          9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+MarkdownView             8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+S29GLxxxN                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 33 mins (54.94%)
+
+✍️ 19 lines written by AI, 20 lines written by hand (48.72% AI-written)
+
+🔤 130,069 Input Tokens, 47,997 Output Tokens
+
+💵 $2.63 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 10 AI Prompts
+
+Sonnet                   19 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 48.72% of written lines came from AI
+📝 Concise Prompter — average 108 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 55.81% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/08/2026 01:06:08 UTC
+ Last Updated on 26/08/2026 01:08:33 UTC
 <!--END_SECTION:waka-->
 </details>
 
