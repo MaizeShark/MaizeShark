@@ -96,23 +96,24 @@ Sunday                   79 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-Claude Code              33 mins             █████████████░░░░░░░░░░░░   53.86 % 
-VS Code                  19 mins             ████████░░░░░░░░░░░░░░░░░   32.41 % 
-CLion                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+VS Code                  2 hrs 30 mins       ████████████████████░░░░░   78.40 % 
+Claude Code              33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+CLion                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 🐱‍💻 Projects: 
-NowPlaying               43 mins             ██████████████████░░░░░░░   70.25 % 
-TechniSat-S1-RE          9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-MarkdownView             8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-S29GLxxxN                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+TechniSat-S1-RE          2 hrs 12 mins       █████████████████░░░░░░░░   68.75 % 
+NowPlaying               43 mins             ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+MarkdownView             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+1dfx                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (54.94%)
+⏱ AI Coding Time: 33 mins (17.56%)
 
-✍️ 19 lines written by AI, 20 lines written by hand (48.72% AI-written)
+✍️ 19 lines written by AI, 581 lines written by hand (3.17% AI-written)
 
 🔤 130,069 Input Tokens, 47,997 Output Tokens
 
@@ -123,14 +124,14 @@ S29GLxxxN                0 secs              ░░░░░░░░░░░�
 Sonnet                   19 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 48.72% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 3.17% of written lines came from AI
 📝 Concise Prompter — average 108 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 55.81% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.04% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/08/2026 01:08:33 UTC
+ Last Updated on 27/08/2026 07:14:21 UTC
 <!--END_SECTION:waka-->
 </details>
 
