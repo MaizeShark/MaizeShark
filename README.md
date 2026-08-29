@@ -96,42 +96,41 @@ Sunday                   79 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-VS Code                  4 hrs 31 mins       ██████████████████████░░░   86.73 % 
-Claude Code              33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-CLion                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+VS Code                  7 hrs 31 mins       ███████████████████████░░   92.77 % 
+Claude Code              35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
 
 🐱‍💻 Projects: 
-TechniSat-S1-RE          4 hrs 12 mins       ████████████████████░░░░░   80.80 % 
-NowPlaying               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-MarkdownView             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-1dfx                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+TechniSat-S1-RE          7 hrs 15 mins       ██████████████████████░░░   89.39 % 
+NowPlaying               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+1dfx                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+replay-test              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (10.78%)
+⏱ AI Coding Time: 36 mins (7.46%)
 
-✍️ 19 lines written by AI, 1,490 lines written by hand (1.26% AI-written)
+✍️ 20 lines written by AI, 2,117 lines written by hand (0.94% AI-written)
 
-🔤 130,069 Input Tokens, 47,997 Output Tokens
+🔤 176,389 Input Tokens, 50,125 Output Tokens
 
-💵 $2.63 Estimated AI Cost This Week
+💵 $2.80 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 10 AI Prompts
+🧠 4 AI Sessions, 11 AI Prompts
 
-Sonnet                   19 lines            █████████████████████████   100.00 % 
+Sonnet                   20 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.26% of written lines came from AI
-📝 Concise Prompter — average 108 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.94% of written lines came from AI
+📝 Concise Prompter — average 101 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 99.86% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.87% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/08/2026 09:26:40 UTC
+ Last Updated on 29/08/2026 05:35:16 UTC
 <!--END_SECTION:waka-->
 </details>
 
