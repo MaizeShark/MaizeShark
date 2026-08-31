@@ -36,7 +36,7 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 
   <!-- Hardware Badges -->
   <img src="https://img.shields.io/badge/ThinkPad_T480-i5--8350U_|_24GB_RAM_|_Debian_13-cba6f7?style=for-the-badge&logo=thinkpad&logoColor=white&labelColor=1e1e2e" alt="Laptop"/>
-  <img src="https://img.shields.io/badge/Desktop-i7--6700K_|_RTX_4060_|_KDE_Neon-cba6f7?style=for-the-badge&logo=asus&logoColor=white&labelColor=1e1e2e" alt="Desktop"/>
+  <img src="https://img.shields.io/badge/Desktop-i7--6700K_|_24GB_RAM_|_RTX_4060_|_KDE_Neon-cba6f7?style=for-the-badge&logo=intel&logoColor=white&labelColor=1e1e2e" alt="Desktop"/>
   
   <br><br>
 
