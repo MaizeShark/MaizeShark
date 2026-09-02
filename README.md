@@ -96,41 +96,40 @@ Sunday                   79 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-VS Code                  7 hrs 31 mins       ███████████████████████░░   92.77 % 
-Claude Code              35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+VS Code                  7 hrs 22 mins       █████████████████████████   99.52 % 
+Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-TechniSat-S1-RE          7 hrs 15 mins       ██████████████████████░░░   89.39 % 
-NowPlaying               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-1dfx                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+TechniSat-S1-RE          7 hrs 16 mins       █████████████████████████   98.09 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+1dfx                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 replay-test              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (7.46%)
+⏱ AI Coding Time: 2 mins (0.58%)
 
-✍️ 20 lines written by AI, 2,117 lines written by hand (0.94% AI-written)
+✍️ 1 lines written by AI, 2,097 lines written by hand (0.05% AI-written)
 
-🔤 176,389 Input Tokens, 50,125 Output Tokens
+🔤 46,320 Input Tokens, 2,128 Output Tokens
 
-💵 $2.80 Estimated AI Cost This Week
+💵 $0.17 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 11 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Sonnet                   20 lines            █████████████████████████   100.00 % 
+Sonnet                   1 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.94% of written lines came from AI
-📝 Concise Prompter — average 101 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 99.87% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.05% of written lines came from AI
+📝 Concise Prompter — average 33 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/09/2026 03:31:05 UTC
+ Last Updated on 02/09/2026 02:48:56 UTC
 <!--END_SECTION:waka-->
 </details>
 
