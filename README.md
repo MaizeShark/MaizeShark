@@ -125,4 +125,6 @@ No AI Coding Activity Tracked This Week
   <br><br>
   
   > _"My code isn't buggy, it just has unexpected purr-sonality."_ 😼
+
+  PFP: [© Frank Schulenburg / CC BY-SA 4.0](https://de.wikipedia.org/wiki/Datei:Male_wild_turkey_(Meleagris_gallopavo)_strutting.jpg)
 </div>
