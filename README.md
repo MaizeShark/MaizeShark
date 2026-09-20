@@ -96,20 +96,42 @@ Sunday                   78 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-VS Code                  1 hr 52 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 49 mins       █████████████████░░░░░░░░   68.24 % 
+Claude Code              1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   31.76 % 
 
 🐱‍💻 Projects: 
-AliFetch                 1 hr 52 mins        █████████████████████████   100.00 % 
+AliFetch                 1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   33.46 % 
+Suwayomi-Tsumiru         1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+rp2040-icp-dump          1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+analysis                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Holtek                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 49 mins (32.59%)
+
+✍️ 1,206 lines written by AI, 256 lines written by hand (82.49% AI-written)
+
+🔤 937,543 Input Tokens, 234,357 Output Tokens
+
+💵 $47.95 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 17 AI Prompts
+
+Opus                     1,218 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 82.49% of written lines came from AI
+📝 Concise Prompter — average 225 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 26.93% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/09/2026 03:04:44 UTC
+ Last Updated on 20/09/2026 03:21:09 UTC
 <!--END_SECTION:waka-->
 </details>
 
