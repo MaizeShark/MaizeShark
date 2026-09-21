@@ -53,7 +53,7 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.89%20million%20lines%20of%20code-blue?style=flat)
 
@@ -96,42 +96,42 @@ Sunday                   78 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-VS Code                  3 hrs 49 mins       █████████████████░░░░░░░░   68.24 % 
-Claude Code              1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   31.76 % 
+VS Code                  8 hrs 33 mins       █████████████████████░░░░   82.44 % 
+Claude Code              1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
 
 🐱‍💻 Projects: 
-AliFetch                 1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   33.46 % 
-Suwayomi-Tsumiru         1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-rp2040-icp-dump          1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-analysis                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Holtek                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Suwayomi-Tsumiru         6 hrs 20 mins       ███████████████░░░░░░░░░░   61.01 % 
+AliFetch                 1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+rp2040-icp-dump          1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+analysis                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Holtek                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 49 mins (32.59%)
+⏱ AI Coding Time: 1 hr 53 mins (18.15%)
 
-✍️ 1,206 lines written by AI, 256 lines written by hand (82.49% AI-written)
+✍️ 1,206 lines written by AI, 6,696 lines written by hand (15.26% AI-written)
 
-🔤 937,543 Input Tokens, 234,357 Output Tokens
+🔤 957,420 Input Tokens, 235,088 Output Tokens
 
-💵 $47.95 Estimated AI Cost This Week
+💵 $48.05 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 17 AI Prompts
+🧠 2 AI Sessions, 21 AI Prompts
 
 Opus                     1,218 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.49% of written lines came from AI
-📝 Concise Prompter — average 225 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 26.93% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 15.26% of written lines came from AI
+📝 Concise Prompter — average 190 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 91.47% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/09/2026 03:21:09 UTC
+ Last Updated on 21/09/2026 03:16:13 UTC
 <!--END_SECTION:waka-->
 </details>
 
