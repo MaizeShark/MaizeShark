@@ -96,46 +96,46 @@ Sunday                   78 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-Claude Code              26 hrs 7 mins       █████████████████░░░░░░░░   68.23 % 
-VS Code                  7 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Codex Vscode             4 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Claude Code              18 hrs 14 mins      ███████████████░░░░░░░░░░   60.94 % 
+VS Code                  7 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+Codex Vscode             4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
 
 🐱‍💻 Projects: 
-TeslaMCU                 35 hrs 44 mins      ███████████████████████░░   93.36 % 
-mcu2-desktop             48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-MCU2-S                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-tesla-hw25-re            33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-good-roatating-back-doesn7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+TeslaMCU                 27 hrs 27 mins      ███████████████████████░░   91.69 % 
+mcu2-desktop             48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+MCU2-S                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+tesla-hw25-re            34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+good-roatating-back-doesn7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 26 mins (87.36%)
+⏱ AI Coding Time: 25 hrs 13 mins (84.24%)
 
-✍️ 9,621 lines written by AI, 627 lines written by hand (93.88% AI-written)
+✍️ 6,720 lines written by AI, 577 lines written by hand (92.09% AI-written)
 
-🔤 12,136,038 Input Tokens, 2,343,594 Output Tokens
+🔤 10,664,498 Input Tokens, 1,776,516 Output Tokens
 
-💵 $652.14 Estimated AI Cost This Week
+💵 $277.82 Estimated AI Cost This Week
 
-🧠 58 AI Sessions, 946 AI Prompts
+🧠 56 AI Sessions, 912 AI Prompts
 
-Opus                     6,878 lines         ██████████████████░░░░░░░   73.78 % 
-GPT                      2,145 lines         ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-Github-Copilot           261 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Sonnet                   26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Codex-Vscode             12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Opus                     4,368 lines         ████████████████░░░░░░░░░   64.03 % 
+GPT                      2,150 lines         ████████░░░░░░░░░░░░░░░░░   31.52 % 
+Github-Copilot           261 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Sonnet                   31 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Codex-Vscode             12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.88% of written lines came from AI
-📚 Verbose Prompter — average 5,542 characters per prompt
+🤖 AI-Driven — 92.09% of written lines came from AI
+📚 Verbose Prompter — average 5,760 characters per prompt
 🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 7.24% of changed lines were hand-edited
+🚀 High AI Trust — 9.43% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/09/2026 03:56:03 UTC
+ Last Updated on 01/10/2026 04:05:34 UTC
 <!--END_SECTION:waka-->
 </details>
 
