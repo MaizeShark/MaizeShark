@@ -53,7 +53,7 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.31%20million%20lines%20of%20code-blue?style=flat)
 
@@ -61,11 +61,11 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 
 > 📦 684.3 kB Used in GitHub's Storage 
  > 
-> 🏆 189 Contributions in the Year 2026
+> 🏆 190 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 47 Public Repositories 
+> 📜 48 Public Repositories 
  > 
 > 🔑 28 Private Repositories 
  > 
@@ -96,46 +96,46 @@ Sunday                   78 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-Claude Code              18 hrs 14 mins      ███████████████░░░░░░░░░░   60.94 % 
-VS Code                  7 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-Codex Vscode             4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Claude Code              16 hrs 33 mins      ████████████████░░░░░░░░░   62.85 % 
+VS Code                  5 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Codex Vscode             4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
 
 🐱‍💻 Projects: 
-TeslaMCU                 27 hrs 27 mins      ███████████████████████░░   91.69 % 
-mcu2-desktop             48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-MCU2-S                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-tesla-hw25-re            34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-good-roatating-back-doesn7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+TeslaMCU                 21 hrs 50 mins      █████████████████████░░░░   82.91 % 
+AniSync                  1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+mcu2-desktop             48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+MCU2-S                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+tesla-hw25-re            34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 13 mins (84.24%)
+⏱ AI Coding Time: 23 hrs 2 mins (87.44%)
 
-✍️ 6,720 lines written by AI, 577 lines written by hand (92.09% AI-written)
+✍️ 8,648 lines written by AI, 457 lines written by hand (94.98% AI-written)
 
-🔤 10,664,498 Input Tokens, 1,776,516 Output Tokens
+🔤 11,231,070 Input Tokens, 1,999,964 Output Tokens
 
-💵 $277.82 Estimated AI Cost This Week
+💵 $312.69 Estimated AI Cost This Week
 
-🧠 56 AI Sessions, 912 AI Prompts
+🧠 49 AI Sessions, 892 AI Prompts
 
-Opus                     4,368 lines         ████████████████░░░░░░░░░   64.03 % 
-GPT                      2,150 lines         ████████░░░░░░░░░░░░░░░░░   31.52 % 
-Github-Copilot           261 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Sonnet                   31 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Codex-Vscode             12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Opus                     6,832 lines         ██████████████████░░░░░░░   73.57 % 
+GPT                      2,150 lines         ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
+Github-Copilot           261 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Sonnet                   31 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Codex-Vscode             12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.09% of written lines came from AI
-📚 Verbose Prompter — average 5,760 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 9.43% of changed lines were hand-edited
+🤖 AI-Driven — 94.98% of written lines came from AI
+📚 Verbose Prompter — average 5,903 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 5.68% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/10/2026 04:05:34 UTC
+ Last Updated on 02/10/2026 04:00:43 UTC
 <!--END_SECTION:waka-->
 </details>
 
