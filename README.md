@@ -53,7 +53,7 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.31%20million%20lines%20of%20code-blue?style=flat)
 
@@ -96,45 +96,45 @@ Sunday                   78 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-Claude Code              11 hrs 11 mins      ███████████████░░░░░░░░░░   58.72 % 
-Codex Vscode             4 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-VS Code                  3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Claude Code              8 hrs 9 mins        █████████████░░░░░░░░░░░░   50.91 % 
+Codex Vscode             4 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+VS Code                  3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
 
 🐱‍💻 Projects: 
-TeslaMCU                 15 hrs 30 mins      ████████████████████░░░░░   81.34 % 
-AniSync                  2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-tesla-hw25-re            34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Yamtrack                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-good-roatating-back-doesn7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+TeslaMCU                 12 hrs 18 mins      ███████████████████░░░░░░   76.76 % 
+AniSync                  2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+tesla-hw25-re            34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Yamtrack                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+niclas                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 7 mins (84.65%)
+⏱ AI Coding Time: 13 hrs 6 mins (81.74%)
 
-✍️ 8,002 lines written by AI, 357 lines written by hand (95.73% AI-written)
+✍️ 7,206 lines written by AI, 357 lines written by hand (95.28% AI-written)
 
-🔤 9,209,474 Input Tokens, 1,618,892 Output Tokens
+🔤 7,696,514 Input Tokens, 1,377,350 Output Tokens
 
-💵 $248.82 Estimated AI Cost This Week
+💵 $231.12 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 832 AI Prompts
+🧠 44 AI Sessions, 810 AI Prompts
 
-Opus                     6,430 lines         ███████████████████░░░░░░   74.57 % 
-GPT                      2,150 lines         ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-Sonnet                   31 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Codex-Vscode             12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Opus                     5,634 lines         ██████████████████░░░░░░░   71.98 % 
+GPT                      2,150 lines         ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+Sonnet                   31 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Codex-Vscode             12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.73% of written lines came from AI
-📚 Verbose Prompter — average 6,276 characters per prompt
+🤖 AI-Driven — 95.28% of written lines came from AI
+📚 Verbose Prompter — average 6,441 characters per prompt
 🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 4.8% of changed lines were hand-edited
+🚀 High AI Trust — 5.27% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/10/2026 03:45:55 UTC
+ Last Updated on 04/10/2026 04:16:06 UTC
 <!--END_SECTION:waka-->
 </details>
 
