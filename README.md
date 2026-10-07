@@ -59,9 +59,9 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 
 **🐱 My GitHub Data** 
 
-> 📦 685.6 kB Used in GitHub's Storage 
+> 📦 685.7 kB Used in GitHub's Storage 
  > 
-> 🏆 190 Contributions in the Year 2026
+> 🏆 191 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -72,21 +72,21 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-🌆 Daytime                209 commits         ██████████░░░░░░░░░░░░░░░   39.43 % 
-🌃 Evening                249 commits         ████████████░░░░░░░░░░░░░   46.98 % 
-🌙 Night                  55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+🌆 Daytime                209 commits         ██████████░░░░░░░░░░░░░░░   39.36 % 
+🌃 Evening                249 commits         ████████████░░░░░░░░░░░░░   46.89 % 
+🌙 Night                  56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Tuesday                  43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Wednesday                107 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Thursday                 41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Friday                   93 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Saturday                 119 commits         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-Sunday                   78 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Monday                   49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Tuesday                  43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Wednesday                108 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Thursday                 41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Friday                   93 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Saturday                 119 commits         ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+Sunday                   78 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
 ```
 
 
@@ -96,24 +96,23 @@ Sunday                   78 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-Claude Code              2 hrs 41 mins       ███████████████████░░░░░░   77.10 % 
-VS Code                  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Codex Vscode             18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Claude Code              2 hrs 41 mins       ██████████████████████░░░   89.93 % 
+Codex Vscode             18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 
 🐱‍💻 Projects: 
-AniSync                  2 hrs 23 mins       █████████████████░░░░░░░░   68.28 % 
-tesla-hw25-re            34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Yamtrack                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-niclas                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-pcbre                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+AniSync                  2 hrs 23 mins       ████████████████████░░░░░   81.29 % 
+Yamtrack                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+niclas                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+pcbre                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+poly2tri.python          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 55 mins (83.62%)
+⏱ AI Coding Time: 2 hrs 55 mins (99.56%)
 
-✍️ 4,955 lines written by AI, 8 lines written by hand (99.84% AI-written)
+✍️ 4,955 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 3,492,507 Input Tokens, 586,737 Output Tokens
 
@@ -127,14 +126,14 @@ Sonnet                   31 lines            ░░░░░░░░░░░�
 Codex-Vscode             12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.84% of written lines came from AI
+🤖 AI-Driven — 100.0% of written lines came from AI
 📚 Verbose Prompter — average 1,635 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 04:48:59 UTC
+ Last Updated on 07/10/2026 04:15:09 UTC
 <!--END_SECTION:waka-->
 </details>
 
