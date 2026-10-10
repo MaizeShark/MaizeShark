@@ -96,37 +96,36 @@ Sunday                   78 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-Claude Code              41 mins             █████████████████████████   100.00 % 
+Claude Code              10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AniSync                  30 mins             ███████████████████░░░░░░   75.31 % 
-niclas                   10 mins             ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+niclas                   10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 mins (100.0%)
+⏱ AI Coding Time: 10 mins (100.0%)
 
-✍️ 4 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 555,077 Input Tokens, 74,878 Output Tokens
+🔤 35,387 Input Tokens, 11,053 Output Tokens
 
-💵 $12.57 Estimated AI Cost This Week
+💵 $7.70 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 9 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
-Opus                     4 lines             █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 485 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 895 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/10/2026 04:31:22 UTC
+ Last Updated on 10/10/2026 04:16:47 UTC
 <!--END_SECTION:waka-->
 </details>
 
