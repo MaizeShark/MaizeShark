@@ -8,9 +8,6 @@
   <a href="https://github.com/MaizeShark">
     <img src="https://img.shields.io/github/followers/MaizeShark?style=social&label=Follow&labelColor=1e1e2e&color=cba6f7" alt="GitHub followers"/>
   </a>
-  <a href="https://maizeshark.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-maizeshark.github.io-94e2d5?style=flat&labelColor=1e1e2e&logo=github" />
-  </a>
   <br><br>
 
   <!-- GitHub Stats (Centered & Borderless for clean look) -->
@@ -35,7 +32,7 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 <div align="center">
 
   <!-- Hardware Badges -->
-  <img src="https://img.shields.io/badge/ThinkPad_T480-i5--8350U_|_24GB_RAM_|_Debian_13-cba6f7?style=for-the-badge&logo=thinkpad&logoColor=white&labelColor=1e1e2e" alt="Laptop"/>
+  <img src="https://img.shields.io/badge/ThinkPad_T480-i5--8350U_|_24GB_RAM_|_Debian_13_Plasma-cba6f7?style=for-the-badge&logo=thinkpad&logoColor=white&labelColor=1e1e2e" alt="Laptop"/>
   <img src="https://img.shields.io/badge/Desktop-i7--6700K_|_24GB_RAM_|_RTX_4060_|_Fedora_Niri-cba6f7?style=for-the-badge&logo=intel&logoColor=white&labelColor=1e1e2e" alt="Desktop"/>
   
   <br><br>
