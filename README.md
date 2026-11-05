@@ -50,15 +50,15 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.47%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.52%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 716.6 kB Used in GitHub's Storage 
+> 📦 718.6 kB Used in GitHub's Storage 
  > 
-> 🏆 353 Contributions in the Year 2026
+> 🏆 365 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -69,21 +69,21 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-🌆 Daytime                243 commits         █████████░░░░░░░░░░░░░░░░   37.38 % 
-🌃 Evening                315 commits         ████████████░░░░░░░░░░░░░   48.46 % 
-🌙 Night                  73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+🌞 Morning                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+🌆 Daytime                247 commits         █████████░░░░░░░░░░░░░░░░   37.37 % 
+🌃 Evening                319 commits         ████████████░░░░░░░░░░░░░   48.26 % 
+🌙 Night                  76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Tuesday                  84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Wednesday                122 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Thursday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Friday                   126 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Saturday                 124 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Sunday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Monday                   63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Tuesday                  84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Wednesday                130 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Thursday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Friday                   126 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Saturday                 124 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Sunday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 ```
 
 
@@ -93,20 +93,46 @@ Sunday                   86 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              15 hrs 19 mins      █████████████████░░░░░░░░   69.94 % 
+Firefox                  6 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+Chrome                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+klippventurer-adv4       4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+niclas                   3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+TeslaMCU                 2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Panasonic                2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+swiftify                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 15 hrs 20 mins (70.04%)
+
+✍️ 8,672 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 5,964,125 Input Tokens, 1,349,335 Output Tokens
+
+💵 $112.35 Estimated AI Cost This Week
+
+🧠 58 AI Sessions, 220 AI Prompts
+
+Opus                     7,539 lines         ██████████████████████░░░   86.39 % 
+Large                    669 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Opencode-Cli             319 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Sonnet                   200 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 664 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/11/2026 04:47:57 UTC
+ Last Updated on 05/11/2026 05:02:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
