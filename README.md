@@ -50,40 +50,40 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%2027%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.48%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.52%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 723.8 kB Used in GitHub's Storage 
+> 📦 724.8 kB Used in GitHub's Storage 
  > 
-> 🏆 385 Contributions in the Year 2026
+> 🏆 392 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 49 Public Repositories 
+> 📜 50 Public Repositories 
  > 
-> 🔑 30 Private Repositories 
+> 🔑 31 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-🌆 Daytime                263 commits         █████████░░░░░░░░░░░░░░░░   36.68 % 
-🌃 Evening                345 commits         ████████████░░░░░░░░░░░░░   48.12 % 
-🌙 Night                  89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+🌆 Daytime                264 commits         █████████░░░░░░░░░░░░░░░░   36.62 % 
+🌃 Evening                347 commits         ████████████░░░░░░░░░░░░░   48.13 % 
+🌙 Night                  90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Tuesday                  86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Wednesday                133 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Thursday                 51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Friday                   165 commits         ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-Saturday                 133 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Sunday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Monday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Tuesday                  86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Wednesday                133 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Thursday                 51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Friday                   165 commits         ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+Saturday                 133 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Sunday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 ```
 
 
@@ -93,48 +93,48 @@ Sunday                   86 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-Firefox                  43 hrs 21 mins      ████████████████░░░░░░░░░   62.58 % 
-Claude Code              15 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-Opencode Cli             7 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Chrome                   1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-OpenCode                 1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Firefox                  49 hrs 51 mins      █████████████████░░░░░░░░   66.36 % 
+Claude Code              14 hrs 9 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Opencode Cli             8 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Chrome                   1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+OpenCode                 1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🐱‍💻 Projects: 
-panasonic-tx-jz980-reveng19 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-Panasonic                12 hrs 18 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-TeslaMCU                 6 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-klippventurer-adv4       4 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-mcu2-desktop             3 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+panasonic-tx-jz980-reveng21 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+Panasonic                13 hrs              ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+TeslaMCU                 6 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+klippventurer-adv4       4 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+mcu2-desktop             3 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 8 mins (34.84%)
+⏱ AI Coding Time: 23 hrs 28 mins (31.26%)
 
-✍️ 25,047 lines written by AI, 5 lines written by hand (99.98% AI-written)
+✍️ 24,509 lines written by AI, 5 lines written by hand (99.98% AI-written)
 
-🔤 16,140,898 Input Tokens, 3,496,828 Output Tokens
+🔤 19,655,320 Input Tokens, 3,469,421 Output Tokens
 
-💵 $1105.30 Estimated AI Cost This Week
+💵 $1236.90 Estimated AI Cost This Week
 
-🧠 74 AI Sessions, 335 AI Prompts
+🧠 71 AI Sessions, 325 AI Prompts
 
-Opus                     12,100 lines        ████████████░░░░░░░░░░░░░   48.68 % 
-GLM                      6,421 lines         ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-Large                    5,103 lines         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Sonnet                   914 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Opencode-Cli             319 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Opus                     11,359 lines        ████████████░░░░░░░░░░░░░   46.71 % 
+GLM                      6,702 lines         ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+Large                    5,103 lines         █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Sonnet                   834 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Opencode-Cli             319 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 1,901 characters per prompt
+📚 Verbose Prompter — average 1,796 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/11/2026 04:22:56 UTC
+ Last Updated on 09/11/2026 04:37:07 UTC
 <!--END_SECTION:waka-->
 </details>
 
