@@ -50,7 +50,7 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%209%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.52%20million%20lines%20of%20code-blue?style=flat)
 
@@ -58,7 +58,7 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 
 > 📦 724.8 kB Used in GitHub's Storage 
  > 
-> 🏆 392 Contributions in the Year 2026
+> 🏆 393 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,20 +70,20 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 
 ```text
 🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-🌆 Daytime                264 commits         █████████░░░░░░░░░░░░░░░░   36.62 % 
-🌃 Evening                347 commits         ████████████░░░░░░░░░░░░░   48.13 % 
-🌙 Night                  90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+🌆 Daytime                264 commits         █████████░░░░░░░░░░░░░░░░   36.57 % 
+🌃 Evening                348 commits         ████████████░░░░░░░░░░░░░   48.20 % 
+🌙 Night                  90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Tuesday                  86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Wednesday                133 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Thursday                 51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Friday                   165 commits         ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-Saturday                 133 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Sunday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Monday                   65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Tuesday                  86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Wednesday                133 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Thursday                 51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Friday                   165 commits         ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+Saturday                 133 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Sunday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
 ```
 
 
@@ -93,48 +93,48 @@ Sunday                   89 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-Firefox                  49 hrs 51 mins      █████████████████░░░░░░░░   66.36 % 
-Claude Code              14 hrs 9 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Opencode Cli             8 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Chrome                   1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-OpenCode                 1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Firefox                  58 hrs 9 mins       ██████████████████░░░░░░░   70.83 % 
+Claude Code              11 hrs 20 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Opencode Cli             9 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Chrome                   1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+OpenCode                 1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🐱‍💻 Projects: 
-panasonic-tx-jz980-reveng21 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-Panasonic                13 hrs              ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-TeslaMCU                 6 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-klippventurer-adv4       4 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-mcu2-desktop             3 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+panasonic-tx-jz980-reveng22 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+Panasonic                15 hrs 38 mins      █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+TeslaMCU                 6 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+klippventurer-adv4       4 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+OpenTRV-Next             3 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 28 mins (31.26%)
+⏱ AI Coding Time: 21 hrs 54 mins (26.68%)
 
-✍️ 24,509 lines written by AI, 5 lines written by hand (99.98% AI-written)
+✍️ 25,466 lines written by AI, 5 lines written by hand (99.98% AI-written)
 
-🔤 19,655,320 Input Tokens, 3,469,421 Output Tokens
+🔤 19,708,477 Input Tokens, 3,640,268 Output Tokens
 
-💵 $1236.90 Estimated AI Cost This Week
+💵 $1517.20 Estimated AI Cost This Week
 
-🧠 71 AI Sessions, 325 AI Prompts
+🧠 63 AI Sessions, 290 AI Prompts
 
-Opus                     11,359 lines        ████████████░░░░░░░░░░░░░   46.71 % 
-GLM                      6,702 lines         ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-Large                    5,103 lines         █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-Sonnet                   834 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Opencode-Cli             319 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Opus                     11,356 lines        ███████████░░░░░░░░░░░░░░   44.87 % 
+GLM                      8,284 lines         ████████░░░░░░░░░░░░░░░░░   32.73 % 
+Large                    4,518 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Sonnet                   834 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Opencode-Cli             319 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 1,796 characters per prompt
+📚 Verbose Prompter — average 2,029 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/11/2026 04:37:07 UTC
+ Last Updated on 10/11/2026 05:55:01 UTC
 <!--END_SECTION:waka-->
 </details>
 
