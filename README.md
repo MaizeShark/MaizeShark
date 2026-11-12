@@ -50,7 +50,7 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.20%20million%20lines%20of%20code-blue?style=flat)
 
@@ -93,47 +93,46 @@ Sunday                   89 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-Firefox                  58 hrs 3 mins       ███████████████████░░░░░░   74.03 % 
-Opencode Cli             9 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Claude Code              7 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Chrome                   1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-OpenCode                 1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Firefox                  55 hrs 1 min        ██████████████████░░░░░░░   70.38 % 
+Opencode Cli             10 hrs 31 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Claude Code              10 hrs 22 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Chrome                   1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+OpenCode                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🐱‍💻 Projects: 
-panasonic-tx-jz980-reveng22 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-Panasonic                15 hrs 7 mins       █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-OpenTRV-Next             5 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-TeslaMCU                 5 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-mcu2-desktop             3 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+panasonic-tx-jz980-reveng15 hrs 34 mins      █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Panasonic                14 hrs 14 mins      █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+TeslaMCU                 6 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+OpenTRV-Next             5 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+pndnav-emu               4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 26 mins (23.52%)
+⏱ AI Coding Time: 21 hrs 18 mins (27.25%)
 
-✍️ 19,478 lines written by AI, 5 lines written by hand (99.97% AI-written)
+✍️ 16,225 lines written by AI, 5 lines written by hand (99.97% AI-written)
 
-🔤 18,386,840 Input Tokens, 3,163,636 Output Tokens
+🔤 19,430,721 Input Tokens, 3,513,827 Output Tokens
 
-💵 $1470.08 Estimated AI Cost This Week
+💵 $1380.67 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 264 AI Prompts
+🧠 50 AI Sessions, 288 AI Prompts
 
-GLM                      8,284 lines         ███████████░░░░░░░░░░░░░░   42.91 % 
-Opus                     5,753 lines         ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-Large                    4,434 lines         ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-Sonnet                   836 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+GLM                      10,063 lines        ███████████████░░░░░░░░░░   61.34 % 
+Opus                     4,957 lines         ████████░░░░░░░░░░░░░░░░░   30.22 % 
+Sonnet                   1,384 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 2,120 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 2,409 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/11/2026 04:40:30 UTC
+ Last Updated on 12/11/2026 05:43:33 UTC
 <!--END_SECTION:waka-->
 </details>
 
