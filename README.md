@@ -93,46 +93,47 @@ Sunday                   89 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-Firefox                  55 hrs 1 min        ██████████████████░░░░░░░   70.38 % 
-Opencode Cli             10 hrs 31 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Claude Code              10 hrs 22 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Chrome                   1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-OpenCode                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Firefox                  51 hrs 56 mins      █████████████████░░░░░░░░   66.36 % 
+Claude Code              15 hrs 35 mins      █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Opencode Cli             8 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Chrome                   1 hr 29 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🐱‍💻 Projects: 
-panasonic-tx-jz980-reveng15 hrs 34 mins      █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Panasonic                14 hrs 14 mins      █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-TeslaMCU                 6 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-OpenTRV-Next             5 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-pndnav-emu               4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Panasonic                12 hrs 4 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+TeslaMCU                 8 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+panasonic-tx-jz980-reveng7 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+OpenTRV-Next             5 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+TomTom                   5 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 18 mins (27.25%)
+⏱ AI Coding Time: 24 hrs 35 mins (31.43%)
 
-✍️ 16,225 lines written by AI, 5 lines written by hand (99.97% AI-written)
+✍️ 21,615 lines written by AI, 5 lines written by hand (99.98% AI-written)
 
-🔤 19,430,721 Input Tokens, 3,513,827 Output Tokens
+🔤 19,675,256 Input Tokens, 4,299,425 Output Tokens
 
-💵 $1380.67 Estimated AI Cost This Week
+💵 $1398.91 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 288 AI Prompts
+🧠 53 AI Sessions, 293 AI Prompts
 
-GLM                      10,063 lines        ███████████████░░░░░░░░░░   61.34 % 
-Opus                     4,957 lines         ████████░░░░░░░░░░░░░░░░░   30.22 % 
-Sonnet                   1,384 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Opus                     10,277 lines        ████████████░░░░░░░░░░░░░   46.83 % 
+GLM                      8,910 lines         ██████████░░░░░░░░░░░░░░░   40.61 % 
+Sonnet                   1,384 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Opencode-Cli             1,372 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 2,409 characters per prompt
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 2,355 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/11/2026 05:43:33 UTC
+ Last Updated on 13/11/2026 05:00:42 UTC
 <!--END_SECTION:waka-->
 </details>
 
