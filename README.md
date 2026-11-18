@@ -50,15 +50,15 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%2056%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.21%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.22%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 726.2 kB Used in GitHub's Storage 
+> 📦 726.6 kB Used in GitHub's Storage 
  > 
-> 🏆 417 Contributions in the Year 2026
+> 🏆 442 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -69,21 +69,21 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-🌆 Daytime                285 commits         █████████░░░░░░░░░░░░░░░░   36.68 % 
-🌃 Evening                364 commits         ████████████░░░░░░░░░░░░░   46.85 % 
-🌙 Night                  106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+🌆 Daytime                293 commits         █████████░░░░░░░░░░░░░░░░   36.26 % 
+🌃 Evening                384 commits         ████████████░░░░░░░░░░░░░   47.52 % 
+🌙 Night                  109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Tuesday                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Wednesday                144 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-Thursday                 54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Friday                   168 commits         █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Saturday                 141 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Sunday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Monday                   85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Tuesday                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Wednesday                147 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Thursday                 54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Friday                   168 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Saturday                 141 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Sunday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
 ```
 
 
@@ -93,46 +93,46 @@ Sunday                   91 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-Firefox                  44 hrs              █████████████████░░░░░░░░   66.84 % 
-Claude Code              18 hrs 32 mins      ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-Opencode Cli             1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Chrome                   1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Firefox                  45 hrs 31 mins      ████████████████░░░░░░░░░   64.74 % 
+Claude Code              21 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   30.13 % 
+Opencode Cli             1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Chrome                   1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🐱‍💻 Projects: 
-MazdaConnect1            9 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-TomTom                   5 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Waylus                   5 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-pndnav-emu               5 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-TeslaMCU                 4 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Waylus                   10 hrs 46 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+MazdaConnect1            9 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+TomTom                   5 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+TeslaMCU                 4 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+pndnav-emu               4 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 27 mins (31.07%)
+⏱ AI Coding Time: 23 hrs 6 mins (32.86%)
 
-✍️ 16,814 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 22,704 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 11,233,939 Input Tokens, 3,494,250 Output Tokens
+🔤 12,140,763 Input Tokens, 3,897,504 Output Tokens
 
-💵 $430.76 Estimated AI Cost This Week
+💵 $472.12 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 295 AI Prompts
+🧠 42 AI Sessions, 332 AI Prompts
 
-Opus                     12,906 lines        ███████████████████░░░░░░   76.25 % 
-GLM                      1,993 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Opencode-Cli             1,372 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Sonnet                   654 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Opus                     18,940 lines        █████████████████████░░░░   82.74 % 
+GLM                      1,993 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Opencode-Cli             1,372 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Sonnet                   586 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 971 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📄 Detailed Prompter — average 1,073 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/11/2026 06:30:26 UTC
+ Last Updated on 18/11/2026 05:53:38 UTC
 <!--END_SECTION:waka-->
 </details>
 
