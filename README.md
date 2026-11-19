@@ -50,15 +50,15 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%2031%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.22%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.24%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 726.6 kB Used in GitHub's Storage 
+> 📦 727.3 kB Used in GitHub's Storage 
  > 
-> 🏆 442 Contributions in the Year 2026
+> 🏆 469 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -69,21 +69,21 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-🌆 Daytime                293 commits         █████████░░░░░░░░░░░░░░░░   36.26 % 
-🌃 Evening                384 commits         ████████████░░░░░░░░░░░░░   47.52 % 
-🌙 Night                  109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+🌆 Daytime                306 commits         █████████░░░░░░░░░░░░░░░░   36.65 % 
+🌃 Evening                392 commits         ████████████░░░░░░░░░░░░░   46.95 % 
+🌙 Night                  115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Tuesday                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Wednesday                147 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Thursday                 54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-Friday                   168 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Saturday                 141 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Sunday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Monday                   85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Tuesday                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Wednesday                168 commits         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Thursday                 60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Friday                   168 commits         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Saturday                 141 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Sunday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 ```
 
 
@@ -93,46 +93,47 @@ Sunday                   92 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-Firefox                  45 hrs 31 mins      ████████████████░░░░░░░░░   64.74 % 
-Claude Code              21 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   30.13 % 
-Opencode Cli             1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Chrome                   1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Firefox                  41 hrs 20 mins      ████████████████░░░░░░░░░   65.02 % 
+Claude Code              18 hrs 58 mins      ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+Chrome                   2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Opencode Cli             42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-Waylus                   10 hrs 46 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-MazdaConnect1            9 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-TomTom                   5 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-TeslaMCU                 4 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-pndnav-emu               4 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Waylus                   15 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+MazdaConnect1            9 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Stela                    4 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+mcu2-desktop             3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+suzyqboard               2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 6 mins (32.86%)
+⏱ AI Coding Time: 19 hrs 41 mins (30.97%)
 
-✍️ 22,704 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 21,895 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 12,140,763 Input Tokens, 3,897,504 Output Tokens
+🔤 9,406,911 Input Tokens, 3,252,870 Output Tokens
 
-💵 $472.12 Estimated AI Cost This Week
+💵 $383.27 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 332 AI Prompts
+🧠 41 AI Sessions, 303 AI Prompts
 
-Opus                     18,940 lines        █████████████████████░░░░   82.74 % 
-GLM                      1,993 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Opencode-Cli             1,372 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Sonnet                   586 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Opus                     21,616 lines        ███████████████████████░░   93.02 % 
+Opencode-Cli             1,372 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+GLM                      214 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Sonnet                   36 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,073 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📄 Detailed Prompter — average 710 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/11/2026 05:53:38 UTC
+ Last Updated on 19/11/2026 05:53:46 UTC
 <!--END_SECTION:waka-->
 </details>
 
