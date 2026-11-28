@@ -50,15 +50,15 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-127%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.29%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 726.9 kB Used in GitHub's Storage 
+> 📦 728.3 kB Used in GitHub's Storage 
  > 
-> 🏆 487 Contributions in the Year 2026
+> 🏆 490 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -69,21 +69,21 @@ Curious tinkerer, passionate developer, and lifelong learner. I enjoy exploring 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-🌆 Daytime                346 commits         █████████░░░░░░░░░░░░░░░░   36.89 % 
-🌃 Evening                436 commits         ████████████░░░░░░░░░░░░░   46.48 % 
-🌙 Night                  134 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+🌆 Daytime                347 commits         █████████░░░░░░░░░░░░░░░░   36.84 % 
+🌃 Evening                439 commits         ████████████░░░░░░░░░░░░░   46.60 % 
+🌙 Night                  134 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Tuesday                  153 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Wednesday                195 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Thursday                 78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Friday                   175 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Saturday                 142 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Sunday                   93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Monday                   102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Tuesday                  153 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Wednesday                195 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Thursday                 78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Friday                   178 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Saturday                 142 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Sunday                   94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
 ```
 
 
@@ -93,47 +93,47 @@ Sunday                   93 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 🔥 Editors: 
-Firefox                  44 hrs 34 mins      ██████████████████░░░░░░░   71.05 % 
-Claude Code              15 hrs 40 mins      ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-Chrome                   2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Opencode Cli             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Firefox                  42 hrs 46 mins      ██████████████████░░░░░░░   70.41 % 
+Claude Code              14 hrs 45 mins      ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+Chrome                   2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+VS Code                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Vscodium                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🐱‍💻 Projects: 
-Nikon                    25 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   41.34 % 
-Somni                    8 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-packages                 6 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-MazdaConnect1            4 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-wayback-downloader       3 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Nikon                    25 hrs 55 mins      ███████████░░░░░░░░░░░░░░   42.68 % 
+Somni                    7 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+packages                 6 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+wayback-downloader       3 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+MazdaConnect1            2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 51 mins (25.27%)
+⏱ AI Coding Time: 15 hrs 17 mins (25.16%)
 
-✍️ 46,353 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 39,388 lines written by AI, 124 lines written by hand (99.69% AI-written)
 
-🔤 10,863,514 Input Tokens, 3,675,756 Output Tokens
+🔤 10,377,818 Input Tokens, 3,423,899 Output Tokens
 
-💵 $383.96 Estimated AI Cost This Week
+💵 $402.68 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 209 AI Prompts
+🧠 34 AI Sessions, 211 AI Prompts
 
-Opus                     46,589 lines        █████████████████████████   99.50 % 
-Sonnet                   234 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Opus                     39,600 lines        █████████████████████████   99.32 % 
+Sonnet                   273 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,866 characters per prompt
+🤖 AI-Driven — 99.69% of written lines came from AI
+📚 Verbose Prompter — average 2,865 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0.42% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/11/2026 06:44:17 UTC
+ Last Updated on 28/11/2026 06:18:00 UTC
 <!--END_SECTION:waka-->
 </details>
 
